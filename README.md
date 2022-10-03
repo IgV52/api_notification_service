@@ -25,7 +25,7 @@ git clone https://github.com/IgV52/api_notification_service.git
     <summary> Параметры: </summary></b>
 ```
 
-MONGO_URL = адрес базы данных [можно создать бд тут -> (https://www.mongodb.com/cloud/atlas/register))
+MONGO_URL = адрес базы данных [можно создать бд тут -> (https://www.mongodb.com/cloud/atlas/register)]
 URL_MSG_SEND = адрес внешнего сервиса
 TOKEN = токен для доступа к внешнему сервису
 

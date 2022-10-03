@@ -27,7 +27,6 @@ git clone https://github.com/IgV52/api_notification_service.git
 
 MONGO_URL = адрес базы данных [можно создать бд тут -> (https://www.mongodb.com/cloud/atlas/register))
 URL_MSG_SEND = адрес внешнего сервиса
-URL_SCHEDULER = 'sqlite:///'+ os.path.join(basedir, 'db_task', 'jobs.sqlite')
 TOKEN = токен для доступа к внешнему сервису
 
 ```
